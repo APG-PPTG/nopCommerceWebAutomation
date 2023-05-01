@@ -1,0 +1,88 @@
+[INFO ] 2023-04-29 20:40:19.567 [main] TC_LoginTest_001 - *************** Starting TC_LoginTest_001 ***************
+[INFO ] 2023-04-29 20:40:21.914 [main] TC_LoginTest_001 - *************** Providing Logging details ***************
+[INFO ] 2023-04-29 20:40:24.372 [main] TC_LoginTest_001 - *************** loginTest is passed ***************
+[INFO ] 2023-04-29 20:40:24.378 [main] TC_LoginTest_001 - *************** Finished TC_LoginTest_001 ***************
+[INFO ] 2023-04-29 20:55:10.049 [TestNG-tests-1] TC_LoginTest_001 - *************** Starting TC_LoginTest_001 ***************
+[INFO ] 2023-04-29 20:55:12.327 [TestNG-tests-1] TC_LoginTest_001 - *************** Providing Logging details ***************
+[INFO ] 2023-04-29 20:55:14.986 [TestNG-tests-1] TC_LoginTest_001 - *************** loginTest is passed ***************
+[INFO ] 2023-04-29 20:55:14.991 [TestNG-tests-1] TC_LoginTest_001 - *************** Finished TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 16:54:26.226 [TestNG-tests-1] TC_LoginTest_001 - *************** Starting TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 16:54:28.103 [TestNG-tests-1] TC_LoginTest_001 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 16:54:30.406 [TestNG-tests-1] TC_LoginTest_001 - *************** loginTest is passed ***************
+[INFO ] 2023-04-30 16:54:30.409 [TestNG-tests-1] TC_LoginTest_001 - *************** Finished TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 16:54:54.161 [TestNG-tests-1] TC_LoginTest_001 - *************** Starting TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 16:54:57.072 [TestNG-tests-1] TC_LoginTest_001 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 16:54:59.431 [TestNG-tests-1] TC_LoginTest_001 - *************** loginTest is passed ***************
+[INFO ] 2023-04-30 16:54:59.436 [TestNG-tests-1] TC_LoginTest_001 - *************** Finished TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 17:06:22.293 [TestNG-tests-1] TC_LoginTest_001 - *************** Starting TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 17:06:24.730 [TestNG-tests-1] TC_LoginTest_001 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 17:06:27.288 [TestNG-tests-1] TC_LoginTest_001 - *************** loginTest is passed ***************
+[INFO ] 2023-04-30 17:06:27.288 [TestNG-tests-1] TC_LoginTest_001 - *************** Finished TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 18:25:07.303 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-04-30 18:25:08.890 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-04-30 18:25:15.914 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-30 18:25:16.532 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-04-30 18:25:16.546 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-04-30 18:25:16.969 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-04-30 18:25:22.491 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-30 18:25:22.491 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-04-30 18:25:22.491 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-04-30 18:25:22.928 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-04-30 18:25:28.367 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-30 18:25:28.367 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-04-30 18:25:28.367 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-04-30 18:25:28.811 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-04-30 18:25:34.290 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-30 18:25:34.290 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-04-30 18:32:34.132 [TestNG-tests-1] TC_LoginDDT_002 - *************** Starting TC_LoginDDT_002 ***************
+[INFO ] 2023-04-30 18:32:35.700 [TestNG-tests-1] TC_LoginDDT_002 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 18:32:37.275 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-30 18:32:38.051 [TestNG-tests-1] TC_LoginDDT_002 - *************** Finished TC_LoginDDT_002 ***************
+[INFO ] 2023-04-30 18:32:38.064 [TestNG-tests-1] TC_LoginDDT_002 - *************** Starting TC_LoginDDT_002 ***************
+[INFO ] 2023-04-30 18:32:38.505 [TestNG-tests-1] TC_LoginDDT_002 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 18:32:38.960 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-30 18:32:38.960 [TestNG-tests-1] TC_LoginDDT_002 - *************** Finished TC_LoginDDT_002 ***************
+[INFO ] 2023-04-30 18:32:38.963 [TestNG-tests-1] TC_LoginDDT_002 - *************** Starting TC_LoginDDT_002 ***************
+[INFO ] 2023-04-30 18:32:39.369 [TestNG-tests-1] TC_LoginDDT_002 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 18:32:39.817 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-30 18:32:39.817 [TestNG-tests-1] TC_LoginDDT_002 - *************** Finished TC_LoginDDT_002 ***************
+[INFO ] 2023-04-30 18:32:39.820 [TestNG-tests-1] TC_LoginDDT_002 - *************** Starting TC_LoginDDT_002 ***************
+[INFO ] 2023-04-30 18:32:40.272 [TestNG-tests-1] TC_LoginDDT_002 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 18:32:40.693 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-30 18:32:40.693 [TestNG-tests-1] TC_LoginDDT_002 - *************** Finished TC_LoginDDT_002 ***************
+[INFO ] 2023-04-30 20:27:45.129 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2023-04-30 20:31:18.464 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2023-04-30 20:41:50.678 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2023-04-30 20:46:43.986 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2023-04-30 20:46:46.843 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2023-04-30 20:46:55.859 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2023-04-30 20:46:55.861 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2023-04-30 21:07:46.957 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2023-04-30 21:07:49.878 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2023-04-30 21:07:57.531 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2023-04-30 21:07:57.535 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2023-04-30 21:07:58.679 [TestNG-tests-1] TC_LoginTest_001 - *************** Starting TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 21:07:59.777 [TestNG-tests-1] TC_LoginTest_001 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 21:08:02.078 [TestNG-tests-1] TC_LoginTest_001 - *************** loginTest is failed ***************
+[INFO ] 2023-04-30 21:09:47.436 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2023-04-30 21:09:49.331 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2023-04-30 21:09:57.687 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2023-04-30 21:09:57.690 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2023-04-30 21:09:58.902 [TestNG-tests-1] TC_LoginTest_001 - *************** Starting TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 21:09:59.929 [TestNG-tests-1] TC_LoginTest_001 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 21:10:02.202 [TestNG-tests-1] TC_LoginTest_001 - *************** loginTest is failed ***************
+[INFO ] 2023-04-30 22:14:26.940 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2023-04-30 22:14:29.119 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2023-04-30 22:14:36.911 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2023-04-30 22:14:36.912 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2023-04-30 22:14:38.120 [TestNG-tests-1] TC_LoginTest_001 - *************** Starting TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 22:14:39.314 [TestNG-tests-1] TC_LoginTest_001 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 22:14:41.657 [TestNG-tests-1] TC_LoginTest_001 - *************** loginTest is failed ***************
+[INFO ] 2023-04-30 22:18:44.339 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2023-04-30 22:18:46.578 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2023-04-30 22:18:54.174 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2023-04-30 22:18:54.177 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2023-04-30 22:18:55.449 [TestNG-tests-1] TC_LoginTest_001 - *************** Starting TC_LoginTest_001 ***************
+[INFO ] 2023-04-30 22:18:56.306 [TestNG-tests-1] TC_LoginTest_001 - *************** Providing Logging details ***************
+[INFO ] 2023-04-30 22:18:58.511 [TestNG-tests-1] TC_LoginTest_001 - *************** loginTest is passed ***************
+[INFO ] 2023-04-30 22:18:58.511 [TestNG-tests-1] TC_LoginTest_001 - *************** Finished TC_LoginTest_001 ***************

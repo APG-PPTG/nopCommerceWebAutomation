@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="nopCommerce2023" parallel="tests" thread-count="2">
+	
+	<listeners>
+		<listener class-name="com.nopCommerce2023.utilities.ExtentReportManager"/>
+	</listeners>
+
+	<test name="chrometest">
+		<parameter name="browser" value="chrome"/>
+		<classes>
+			<class name="com.nopCommerce2023.testCases.TC_LoginTest_001"/>
+		<!--    <class name="com.nopCommerce2023.testCases.TC_LoginDDT_002"/>   -->
+		   <class name="com.nopCommerce2023.testCases.TC_AddCustomerTest_003"/>
+		   <class name="com.nopCommerce2023.testCases.TC_SearchCustomerByEmail_004" />
+		   <class name="com.nopCommerce2023.testCases.TC_SearchCustomerByName_005" />
+		   
+		</classes>
+	</test>
+	
+	<!--
+	<test name="firefoxtest">
+		<parameter name="browser" value="firefox"/>
+		<classes>
+			<class name="com.nopCommerce2023.testCases.TC_LoginTest_001"/>
+		</classes>
+	</test>
+	 -->
+</suite>

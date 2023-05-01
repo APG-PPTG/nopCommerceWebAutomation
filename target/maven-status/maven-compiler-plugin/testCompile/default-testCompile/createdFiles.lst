@@ -1,0 +1,12 @@
+com\nopCommerce2023\pageObjects\SearchCustomerPage.class
+com\nopCommerce2023\testCases\TC_SearchCustomerByName_005.class
+com\nopCommerce2023\testCases\TC_SearchCustomerByEmail_004.class
+com\nopCommerce2023\testBase\BaseClass.class
+com\nopCommerce2023\testCases\TC_AddCustomerTest_003.class
+com\nopCommerce2023\testCases\TC_LoginDDT_002Work.class
+com\nopCommerce2023\testCases\TC_LoginTest_001.class
+com\nopCommerce2023\utilities\ExtentReportManager.class
+com\nopCommerce2023\testCases\TC_LoginDDT_002.class
+com\nopCommerce2023\utilities\XLUtils.class
+com\nopCommerce2023\pageObjects\AddcustomerPage.class
+com\nopCommerce2023\pageObjects\LoginPage.class
